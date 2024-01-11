@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://127.0.0.1:8000/",
+  "imageUrl": "http://127.0.0.1:8000/",
+  "prod": false,
+  "nationalID": {
+    "nationalIDName": "Aadhaar No",
+    "regex": "(^[0-9]{12}$)"
+  }
+}
